@@ -1,4 +1,4 @@
-# Crestron-Start-Operation
+# Crestron-Module-Start-Operation
 Restart Module - Crestron Series 3 and Series 4 Processors
 
 This module works at the end of the Processor restart, setting the output to 1 for a time chosen by the "time" parameter.
